@@ -1,4 +1,4 @@
-# cards
+# tic tac toe
 
 ## my project
 
